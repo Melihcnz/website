@@ -30,10 +30,11 @@ nav{
     align-items: center;
     justify-content: space-between;
     gap: 2rem;
+    height: 100px;
 }
 
 .nav-logo{
-    max-width: 100px;
+    max-width: 200px;
 }
 
 .nav-links{
@@ -286,7 +287,7 @@ footer{
 }
 
 footer .column .logo{
-    max-width: 100px;
+    max-width: 200px;
     margin-bottom: 2rem;
 }
 
